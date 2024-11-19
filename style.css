@@ -1,0 +1,9 @@
+h1 {
+  text-transform: uppercase;
+  background-color: aqua;
+  color: white;
+  text-align: center;
+  border: 2px solid red;
+  border-radius: 10px;
+  padding: 10px;
+}
